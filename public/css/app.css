@@ -1,0 +1,56 @@
+@import url("https://fonts.googleapis.com/css?family=Raleway:300,400,500,600,700");
+.alert-error {
+  background-color: #e51c23;
+  border-color: #d0183d;
+  color: #ffffff; }
+
+.page {
+  margin-top: -25px; }
+
+.page-title {
+  background: #26a69a;
+  padding: 0px 0 30px 0; }
+
+h2.title-text {
+  color: whitesmoke;
+  font-family: 'Raleway', sans-serif;
+  font-weight: 300; }
+
+.page .content {
+  margin: 40px 0;
+  padding: 10px auto;
+  font-size: 20px;
+  line-height: 36px;
+  font-weight: 400; }
+
+.dropdown-menu > li > a {
+  padding: 7px 20px; }
+
+.disableClick {
+  pointer-events: none !important;
+  cursor: default !important;
+  color: #aaa !important; }
+
+.m-l-10 {
+  margin-left: 10px; }
+
+.m-r-10 {
+  margin-right: 10px; }
+
+.m-t-10 {
+  margin-top: 10px; }
+
+.m-b-10 {
+  margin-bottom: 10px; }
+
+textarea, textarea.form-control, input.form-control, input[type=text], input[type=password], input[type=email], input[type=number], [type=text].form-control, [type=password].form-control, [type=email].form-control, [type=tel].form-control, [contenteditable].form-control {
+  box-shadow: 1px 1px 2px rgba(0, 0, 0, 0.25);
+  font-size: 16px;
+  background: #fff;
+  padding: 10px;
+  border-radius: 3px; }
+
+textarea:focus, textarea.form-control:focus, input.form-control:focus, input[type=text]:focus, input[type=password]:focus, input[type=email]:focus, input[type=number]:focus, [type=text].form-control:focus, [type=password].form-control:focus, [type=email].form-control:focus, [type=tel].form-control:focus, [contenteditable].form-control:focus {
+  box-shadow: 1px 1px 6px rgba(0, 0, 0, 0.3); }
+
+/*# sourceMappingURL=app.css.map */
